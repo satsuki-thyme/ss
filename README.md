@@ -24,3 +24,4 @@
 - ssop/011/011-thinking-notes.md: ssop011 思考ノート
 - ssop/012/012-structure.yml:     ssop012 構造体
 - ssop/012/012-thinking-notes.md: ssop012 思考ノート
+- ssop/013/013-idea-notes.md:     ssop013 アイデアノート
