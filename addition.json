@@ -1,0 +1,16 @@
+{
+  "description": {
+    "normal": "掌編、短編です。",
+    "x":      "掌編、短編です。"
+  },
+  "additional": {
+    "header": {
+      "normal": "",
+      "x":      ""
+    },
+    "footer": {
+      "normal": "",
+      "x":      ""
+    }
+  }
+}
